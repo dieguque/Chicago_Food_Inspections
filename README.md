@@ -40,3 +40,24 @@ XGBoost
 3. Numpy
 4. Pandas
 
+## Communication
+
+In addition to these charts, this is the direct link to the [presentation](https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/Chicago%20Food%20Establishments.pdf).
+
+2010 - 2021 Chicago Food Inspections
+
+<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/Inspections%20Results.png">
+
+
+Random Forest Confusion Matrix
+
+<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/confusion_matrix_rf_food.png">
+
+
+XGBoost Feature Importance (frequency)
+
+<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/feature_importance_frequency.png">
+
+XGBoost Feature Importance (gain)
+
+<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/feature_importance_gain.png">

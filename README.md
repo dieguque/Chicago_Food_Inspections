@@ -51,7 +51,7 @@ In addition to these charts, this is the direct link to the [presentation](https
 
 Random Forest Confusion Matrix
 
-<img src="https://github.com/dieguque/Classification-Project/blob/348e02e704f2aa69de3aad5a06bf43d0960f987a/charts/confusion_matrix_rf_food.pngx">
+<img src="https://github.com/dieguque/Classification-Project/blob/c02a32e627f0bc9dfd083b11f262e35d07d27889/charts/confusion_matrix_rf_food.png">
 
 
 XGBoost Feature Importance (frequency)

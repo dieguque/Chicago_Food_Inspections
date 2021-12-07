@@ -51,13 +51,13 @@ In addition to these charts, this is the direct link to the [presentation](https
 
 Random Forest Confusion Matrix
 
-<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/confusion_matrix_rf_food.png">
+<img src="https://github.com/dieguque/Classification-Project/blob/348e02e704f2aa69de3aad5a06bf43d0960f987a/charts/confusion_matrix_rf_food.pngx">
 
 
 XGBoost Feature Importance (frequency)
 
-<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/feature_importance_frequency.png">
+<img src="https://github.com/dieguque/Classification-Project/blob/348e02e704f2aa69de3aad5a06bf43d0960f987a/charts/feature_importance_frequency.png">
 
 XGBoost Feature Importance (gain)
 
-<img src="https://github.com/dieguque/Chicago_Food_Inspections/blob/f32d80afd4a4638aba4a8ea6e2a83f8a3acd6325/charts/feature_importance_gain.png">
+<img src="https://github.com/dieguque/Classification-Project/blob/348e02e704f2aa69de3aad5a06bf43d0960f987a/charts/feature_importance_gain.png">
